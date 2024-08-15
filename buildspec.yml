@@ -7,9 +7,6 @@ phases:
   build:
     commands:
       - echo "Building the application"
-      - mkdir -p build
-      - cp -r * build/
-
 artifacts:
   files:
     - '**/*'

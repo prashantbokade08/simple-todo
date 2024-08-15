@@ -16,5 +16,5 @@ artifacts:
   base-directory: build
   discard-paths: yes
   s3:
-    bucket: your-s3-bucket-name
+    bucket: thisismybucket12345000
     path: todo-app-builds
